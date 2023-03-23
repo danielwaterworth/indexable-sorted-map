@@ -1,0 +1,8 @@
+[package]
+name = "indexable-sorted-map"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "indexable_sorted_map"
+path = "src/indexable_sorted_map.rs"
